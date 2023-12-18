@@ -8,7 +8,7 @@
 
 - 🌱 Interests **AI, Generative AI, ML, MLOps & Data Science**
 
-- 📫 How to reach me **keerthanareddy95k@gmail.com**
+- 📫 Reach out to me at **keerthanareddy95k@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/keerthana-reddy-k-b07238268](www.linkedin.com/in/keerthana-reddy-k-b07238268)
 
