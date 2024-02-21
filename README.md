@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Keerthana</h1>
-<h3 align="center">I'm a student passionate about Machine Learning, MLOps and Data Science. I'm on a journey to learn and apply these technologies to solve real-world problems and create optimized solutions.</h3>
+<h3 align="center">I'm a student passionate about Generative AI, Machine Learning, MLOps and Data Science. I'm on a journey to learn and apply these technologies to solve real-world problems and create optimized solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthanareddy95&label=Profile%20views&color=0e75b6&style=flat" alt="keerthanareddy95" /> </p>
 
