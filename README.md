@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/keerthana_95k" target="blank"><img src="https://img.shields.io/twitter/follow/keerthana_95k?logo=twitter&style=for-the-badge" alt="keerthana_95k" /></a> </p>
 
-- 🌱 Interests **Generative AI, ML, MLOps & Data Science**
+- 🌱 Interests **AI, ML, MLOps & Data Science**
 
-- 📫 How to reach me **keerthanareddy95k@gmail.com**
+- 📫 Reach out to me at **keerthanareddy95k@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/keerthana-reddy-k-b07238268](www.linkedin.com/in/keerthana-reddy-k-b07238268)
 
