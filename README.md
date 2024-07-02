@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Keerthana</h1>
 <h3 align="center">I'm a student passionate about Artificial Intelligence, Machine Learning, MLOps and Data Science. I'm on a journey to learn and apply these technologies to solve real-world problems and create optimized solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthanareddy95&label=Profile%20views&color=0e75b6&style=flat" alt="keerthanareddy95" /> </p>
-
 <p align="left"> <a href="https://twitter.com/keerthana_95k" target="blank"><img src="https://img.shields.io/twitter/follow/keerthana_95k?logo=twitter&style=for-the-badge" alt="keerthana_95k" /></a> </p>
 
 - 🌱 Interests **AI, ML, MLOps & Data Science**
