@@ -9,7 +9,5 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=keerthanareddy95&show_icons=true&locale=en&layout=compact" alt="keerthanareddy95" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keerthanareddy95&" alt="keerthanareddy95" /></p>
 
