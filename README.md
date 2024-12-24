@@ -3,7 +3,7 @@
 
 - 🌱 **I like building AI**
 
-- 📫 Reach out to me at **keerthanareddy95k@gmail.com**
+- 📫 Reach out to me at **katasanikeerthanareddy@gmail.com**
 
 - 📄 Connect with me at [[www.linkedin.com/in/keerthana-reddy-k-b07238268](https://www.linkedin.com/in/keerthana-reddy-katasani-b07238268/)]
 
