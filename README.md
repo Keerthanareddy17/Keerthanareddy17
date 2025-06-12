@@ -20,7 +20,7 @@ Currently shipping tools that talk, see, summarize, and self-optimize. Always bu
 
 ---
 
-⚙️ A curated stack I keep reaching for :
+⚙️ The Stack I keep reaching for :
  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
