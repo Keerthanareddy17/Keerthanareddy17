@@ -6,8 +6,8 @@ _"I love building AI that breathes, thinks, and actually works in the wild."_
 Currently shipping tools that talk, see, summarize, and self-optimize. Always building something new 🚀
 
 [![Email](https://img.shields.io/badge/-Email-000?style=flat&logo=gmail&logoColor=white)](mailto:katasanikeerthanareddy@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthana-reddy-k-b07238268)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/KeerthanaReddyK)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthana-reddy-katasani-b07238268/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Keerthanareddy17)
 
 
 - From GenAI apps to edge-tuned CV models, I craft AI that's lean, local, and ridiculously useful.  
@@ -56,6 +56,4 @@ Currently shipping tools that talk, see, summarize, and self-optimize. Always bu
 ### ☕ Let’s Talk
 Whether it’s an idea, acollab, a role, or just good AI banter, I'm all ears — let's connect ✨ 
 [![Email](https://img.shields.io/badge/-Email-000?style=flat&logo=gmail&logoColor=white)](mailto:katasanikeerthanareddy@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthana-reddy-k-b07238268)
-
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthana-reddy-katasani-b07238268/)
