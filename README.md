@@ -10,7 +10,7 @@ Currently shipping tools that talk, see, summarize, and self-optimize. Always bu
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Keerthanareddy17)
 
 
-- From GenAI apps to edge-tuned CV models, I craft AI that's lean, local, and ridiculously useful.  
+- From GenAI apps to edge-tuned CV models, I'm working on crafting AI that's lean, local, and ridiculously useful.  
 - I’ve led AI workshops, built AI products end-to-end.... and had fun doing it.
 - At my previous roles, I've worked across the AI stack.... from designing GenAI apps that speak and generate, to building bots that onboard users, analyze data, and trigger alerts when systems go off track.
 - At my current role, I’m working on building smart computer vision models.  
