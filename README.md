@@ -47,7 +47,7 @@ Currently shipping tools that talk, see, summarize, and self-optimize. Always bu
 ---
 
 ### 📝 My Latest Blog Posts
-
+- [🧠 Decoding Doctor’s Handwriting: How I Built SmartRx to Read & Translate Prescriptions with AI](https://smarter.hashnode.dev/decoding-doctors-handwriting-how-i-built-smartrx-to-read-and-translate-prescriptions-with-ai)
 - [🔍 Automating Data Insights with Gemini + LangSmith](https://www.analyticsvidhya.com/blog/2024/09/automate-data-insights-with-insightmate-using-gemini-langsmith/)  
 - [📞 AI Tool for Customer Call Analysis](https://www.analyticsvidhya.com/blog/2024/11/customer-call-analysis/)
 
