@@ -1,6 +1,6 @@
-## Hey there, I'm Keerthana!
 
-> 🧠 AI Developer 
+<img width="1584" height="396" alt="gyguygujhgukh" src="https://github.com/user-attachments/assets/08e6c969-b8a0-4a0d-a8f7-8633759822b8" />
+
 
 _"I love building AI that breathes, thinks, and actually works in the wild."_  
 Currently shipping tools that talk, see, summarize, and self-optimize. Always building something new 🚀
@@ -22,6 +22,7 @@ Currently shipping tools that talk, see, summarize, and self-optimize. Always bu
 ⚙️ The Stack I keep reaching for :
  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Transformers](https://img.shields.io/badge/-Transformers-FCC72A?style=flat&logo=huggingface&logoColor=black)
 ![Whisper](https://img.shields.io/badge/-Whisper-1A1A1A?style=flat)
@@ -32,13 +33,15 @@ Currently shipping tools that talk, see, summarize, and self-optimize. Always bu
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![ZenML](https://img.shields.io/badge/-ZenML-4B3263?style=flat)
+![Mlflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![VectorDB](https://img.shields.io/badge/-VectorDB-FF6F00?style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
