@@ -61,7 +61,7 @@ Whether it’s an idea, a collab, a role, or just good AI banter, I'm all ears..
 
 [![Email](https://img.shields.io/badge/-Email-000?style=flat&logo=gmail&logoColor=red)](mailto:katasanikeerthanareddy@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthana-reddy-katasani-b07238268/)
-.
+
 ![325895827-ad50585b-2e08-4f45-9836-9bb6d67e2a86](https://github.com/user-attachments/assets/d7521d04-bad4-4b1a-a97c-4c84b7ec9627)
 
 
