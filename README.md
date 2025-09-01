@@ -2,6 +2,8 @@
 <img width="1584" height="396" alt="gyguygujhgukh" src="https://github.com/user-attachments/assets/08e6c969-b8a0-4a0d-a8f7-8633759822b8" />
 
 
+![](https://komarev.com/ghpvc/?username=Keerthanareddy17&style=for-the-badge)
+
 _"I love building AI that breathes, thinks, and actually works in the wild."_  
 Currently shipping tools that talk, see, summarize, and self-optimize. Always building something new! <img src="https://github.com/user-attachments/assets/5b8381e7-01b0-474b-b9e5-2ecb772b51eb" width="40" />
 
