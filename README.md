@@ -16,7 +16,6 @@ Currently shipping tools that talk, see, summarize, and self-optimize. Always bu
 - I’ve led AI workshops, built AI products end-to-end.... and had fun doing it.
 - At my previous roles, I've worked across the AI stack.... from designing GenAI apps that speak and generate, to building bots that onboard users, analyze data, and trigger alerts when systems go off track.
 - At my current role, I’m working on building smart computer vision models.  
-- Now exploring the frontier of AI agents and LLMs!
 
 
 ---
