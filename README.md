@@ -4,8 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Keerthanareddy17&style=for-the-badge)
 
-_"I love building AI that breathes, thinks, and actually works in the wild."_  
-Currently shipping tools that talk, see, summarize, and self-optimize. Always building something new! <img src="https://github.com/user-attachments/assets/5b8381e7-01b0-474b-b9e5-2ecb772b51eb" width="40" />
+I love building tools that talk, see, summarize, and self-optimize.... Always building something new! <img src="https://github.com/user-attachments/assets/5b8381e7-01b0-474b-b9e5-2ecb772b51eb" width="40" />
 
 [![Email](https://img.shields.io/badge/-Email-000?style=flat&logo=gmail&logoColor=red)](mailto:katasanikeerthanareddy@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthana-reddy-katasani-b07238268/)
