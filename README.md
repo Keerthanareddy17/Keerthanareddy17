@@ -6,10 +6,6 @@
 
 I love building tools that talk, see, summarize, and self-optimize.... Always building something new! <img src="https://github.com/user-attachments/assets/5b8381e7-01b0-474b-b9e5-2ecb772b51eb" width="40" />
 
-[![Email](https://img.shields.io/badge/-Email-000?style=flat&logo=gmail&logoColor=red)](mailto:katasanikeerthanareddy@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthana-reddy-katasani-b07238268/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Keerthanareddy17)
-
 
 - From GenAI apps to edge-tuned CV models, I'm working on crafting AI that's lean, local, and ridiculously useful.  
 - I’ve led AI workshops, built AI products end-to-end.... and had fun doing it.
@@ -66,6 +62,5 @@ Whether it’s an idea, a collab, a role, or just good AI banter, I'm all ears..
 [![Email](https://img.shields.io/badge/-Email-000?style=flat&logo=gmail&logoColor=red)](mailto:katasanikeerthanareddy@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthana-reddy-katasani-b07238268/)
 
-![325895827-ad50585b-2e08-4f45-9836-9bb6d67e2a86](https://github.com/user-attachments/assets/d7521d04-bad4-4b1a-a97c-4c84b7ec9627)
 
 
