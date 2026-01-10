@@ -7,11 +7,11 @@
 I love building tools that talk, see, summarize, and self-optimize.... Always building something new! <img src="https://github.com/user-attachments/assets/5b8381e7-01b0-474b-b9e5-2ecb772b51eb" width="40" />
 
 
-- From GenAI apps to edge-tuned CV models, I'm working on crafting AI that's lean, local, and ridiculously useful.  
-- I’ve led AI workshops, built AI products end-to-end.... and had fun doing it.
-- At my previous roles, I've worked across the AI stack.... from designing GenAI apps that speak and generate, to building bots that onboard users, analyze data, and trigger alerts when systems go off track.
-- At my current role, I’m working on building smart computer vision and deep learning models.  
+From GenAI applications to edge-tuned computer vision models, I enjoy crafting AI that’s lean, local, and actually useful in the real world.
 
+I’ve worked across the AI stack : designing LLM and VLM pipelines end-to-end, building  systems that run under tight constraints, and engineering large, messy datasets into something models can actually learn from.
+
+I’ve led AI workshops, built products from scratch, and learned most of what I know by owning problems instead of waiting for clean ones.
 
 ---
 
