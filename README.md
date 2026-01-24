@@ -4,14 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Keerthanareddy17&style=for-the-badge)
 
-I love building tools that talk, see, summarize, and self-optimize.... Always building something new! <img src="https://github.com/user-attachments/assets/5b8381e7-01b0-474b-b9e5-2ecb772b51eb" width="40" />
-
-
-From GenAI applications to edge-tuned computer vision models, I enjoy crafting AI that’s lean, local, and actually useful in the real world.
-
-I’ve worked across the AI stack : designing LLM and VLM pipelines end-to-end, building  systems that run under tight constraints, and engineering large, messy datasets into something models can actually learn from.
-
-Currently, I'd be just building something new :)
+I love building AI 🌱
 
 ---
 
