@@ -11,7 +11,7 @@ From GenAI applications to edge-tuned computer vision models, I enjoy crafting A
 
 I’ve worked across the AI stack : designing LLM and VLM pipelines end-to-end, building  systems that run under tight constraints, and engineering large, messy datasets into something models can actually learn from.
 
-I’ve led AI workshops, built products from scratch, and learned most of what I know by owning problems instead of waiting for clean ones.
+Currently, I'd be just building something new :)
 
 ---
 
