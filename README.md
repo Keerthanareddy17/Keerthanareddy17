@@ -41,6 +41,7 @@ I love building AI 🌱
   <img src="https://github.com/user-attachments/assets/ca37fba2-d077-4ad1-8e80-0c0846b6a267" width="50" /> My Latest Blog Posts
 </h3>
 
+- [🌟 Rebuilding a YC Startup’s Core Product From Scratch Using Open Source, in just 4 hours!](https://medium.com/@keerthanareddy17/rebuilding-a-yc-startups-core-product-from-scratch-using-open-source-in-just-4-hours-9cef2ba95b52)
 - [🧠 Decoding Doctor’s Handwriting: How I Built SmartRx to Read & Translate Prescriptions with AI](https://smarter.hashnode.dev/decoding-doctors-handwriting-how-i-built-smartrx-to-read-and-translate-prescriptions-with-ai)
 - [🔍 Automating Data Insights with Gemini + LangSmith](https://www.analyticsvidhya.com/blog/2024/09/automate-data-insights-with-insightmate-using-gemini-langsmith/)  
 - [📞 AI Tool for Customer Call Analysis](https://www.analyticsvidhya.com/blog/2024/11/customer-call-analysis/)
