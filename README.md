@@ -16,7 +16,7 @@ I've worked across 4 early-stage startups including **YC-backed ProjectPro and d
 
 | Role | Company | When |
 | --- | --- | --- |
-| Graduate Research Assistant | University of North Texas | August 2026 – present |
+| Graduate Research Assistant | University of North Texas | June 2026 – present |
 | AI Engineer | Flawk | May 2025 – May 2026 |
 | AI Research Intern | Indian Institute of Technology Delhi | July 2025 - December 2025|
 | Data Science Intern | ProjectPro (YC) | October 2024 – April 2025 |
